@@ -1,12 +1,10 @@
-# MacAI-Projects-Template
+# NoteFlow
 
-### About the Project
+A note organizing tool leveraging AI to make notes more organized, concise and readable than ever, while still maintaining all pertient information.
 
-Short summary of project.
+<!-- ### Goal
 
-### Goal
-
-Short description of what problem this project seeks to solve.
+Create a tool
 
 ### Installation
 
@@ -18,4 +16,4 @@ Basic description of how to use the project.
 
 ### License
 
-### Acknowledgements
+### Acknowledgements -->
