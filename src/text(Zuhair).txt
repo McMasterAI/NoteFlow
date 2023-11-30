@@ -1,0 +1,28 @@
+- Classical conditioning is often called **Pavlovian conditioning**
+    - Pavlov noticed that dogs began salivating in the absence of food stimuli — but just prior to the arrival of the food
+    - The dogs would begin salivating in response to the sound of the metronome, before even seeing the food — this is because they realized this sound meant food was on the way.
+- When an organism learns the association between a signal and an event, a *contingent relationship* is formed between the signal and the event
+- Definition of **contingency**:
+    - When one event reliably predicts another and leads to the formation of an association between the events
+    - E.g. an antelope that is grazing cannot begin to flee a predator only when it spots the predator — by that point it is too late. Therefore the antelope learns associations e.g. sounds and smells that reliably predict the presence of a predator and responds to those cues instead.
+- **Classical conditioning:**
+    - the learning of a contingency between a particular signal and a later event that are paired in time and/or space
+
+### Components of Classical Conditioning
+
+- ****Unconditioned stimulus (US):****
+    - Any stimulus or event that triggers a response naturally, requiring no training / learning
+- ****Unconditioned response (UR):****
+    - The response that occurs as a result of the unconditioned stimulus
+    - Typically biologically programmed (requires no learning)
+- ******************************************Conditioned stimulus (CS):******************************************
+    - paired with the unconditioned stimulus to form a contingency
+    - e.g. the sound of a metronome for Pavlov’s dogs (contingency with food)
+- The conditioned stimulus typically appears before the unconditioned stimulus appears. As a result, the conditioned stimulus acts as a predictor for the unconditioned stimulus.
+    - may take several trials
+    - the organism will eventually learn the contingent relationship
+- ******Conditioned response (CR):******
+    - the response that occurs once the contingency between the CS and US has been learned.
+    - e.g. conditioned stimulus is the metronome and conditioned response is salivation.
+- ************************Acquisition:************************
+    - the process by which a contingency between a CS and US is learned.
