@@ -3,7 +3,7 @@ from spacy import displacy
 
 nlp = spacy.load("en_core_web_trf")
 doc = nlp("Thus, Apple is planning on building a new office in Toronto for 13 million U.S. Dollars.")
-#displacy.serve(doc, style="dep")
+displacy.serve(doc, style="dep")
 
 output_list = []
 del_num = 0
