@@ -30,4 +30,4 @@ def main(input_text):
     # summary to bullet points
     bullet_points = to_bullet_points(summary)
 
-    return ("\n".join(bullet_points))
+    return (bullet_points)

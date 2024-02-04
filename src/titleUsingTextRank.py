@@ -59,7 +59,7 @@ def generateTitle(text):
     average = (compare1.similarity(compare2) + compare2.similarity(compare3) + compare1.similarity(compare3))/3
     #print("Average similarity: ", average)
 
-    title = "\n" + top_three[0][0] + ": " + top_three[1][0] + " & " + top_three[2][0]
+    title = "\n#### " + top_three[0][0] + ": " + top_three[1][0] + " & " + top_three[2][0]
     if (top_three[0][1] > 1):
         picked_confidence = top_three[0][1] - 0.8
     else:
