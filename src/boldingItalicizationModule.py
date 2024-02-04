@@ -33,7 +33,6 @@ def stop_word_scrubber():
     return scrubber
 
 def identify_important_words():
-
     important_words = set()
 
     for ent in doc.ents:
