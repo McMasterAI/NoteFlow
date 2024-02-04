@@ -21,7 +21,6 @@ for token in doc:
         custom_stop_words.append(token.text)
 
 stop_words = set(custom_stop_words)
-print(stop_words)
 
 @spacy.registry.misc("stop_word_scrubber")
 def stop_word_scrubber():
